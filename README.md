@@ -2,6 +2,6 @@
 
 A tank game developed with Unreal Engine 4 (Work in progress...)
 <p align="center">
-   <img src="https://github.com/HakanAkkurt/BattleTank/blob/master/Screenshots/Screenshot1.png" width="1000">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VN1IBMi1TFo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
