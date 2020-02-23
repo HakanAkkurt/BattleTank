@@ -1,8 +1,8 @@
 // Copyright by Hakan Akkurt
 
 
-#include <Runtime\Engine\Classes\Kismet\GameplayStatics.h>
 #include "Projectile.h"
+#include <Runtime\Engine\Classes\Kismet\GameplayStatics.h>
 
 // Sets default values
 AProjectile::AProjectile()
